@@ -1,2 +1,2 @@
 # HackerRank
-Started to follow Python PEP8 style at the Staircase exercise, and use PyCharm instead of Canopy.
+Decided to ditch PEP8 style.. It just gives me a bloody headache..
